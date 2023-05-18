@@ -1,5 +1,5 @@
-### Hi there 👋
-- 我是高级架构师
+### Hi there 
+My name is Cheng
 
 <!--
 **ajwosm/ajwosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
